@@ -1,24 +1,9 @@
-# README
+# TDD Module 3 Project
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Project Requirements
+ * [ ] Using TDD, build a model called Sale with the string attributes title, description, 
+       and then an integer attribute of qty_available
+ * [ ] Using BDD build integration specs that ensure that sale records can be edited.
+ *     You can use the resource generator for the Sale system, do not use the scaffold generator.
+ * [ ] There should be at least 10 specs written for this project, including both model and feature specs. All 			  
+       specs need to be passing in order for project to be approved.
