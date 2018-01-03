@@ -1,7 +1,7 @@
 # TDD Module 3 Project
 
 ## Project Requirements
- * [ ] Using TDD, build a model called Sale with the string attributes title, description, 
+ * [x] Using TDD, build a model called Sale with the string attributes title, description, 
        and then an integer attribute of qty_available
  * [ ] Using BDD build integration specs that ensure that sale records can be edited.
       * You can use the resource generator for the Sale system, do not use the scaffold generator.
